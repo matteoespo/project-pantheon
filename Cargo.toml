@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "pantheon-core",
+    "mercury-auto"
+]
+resolver = "2"
